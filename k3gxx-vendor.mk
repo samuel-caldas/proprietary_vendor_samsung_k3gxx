@@ -93,7 +93,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/k3gxx/proprietary/lib/libfpasmtztransport.so:system/lib/libfpasmtztransport.so \
     vendor/samsung/k3gxx/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
     vendor/samsung/k3gxx/proprietary/lib/libhr.so:system/lib/libhr.so \
-#    vendor/samsung/k3gxx/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
+    vendor/samsung/k3gxx/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/k3gxx/proprietary/lib/libmysound.so:system/lib/libmysound.so \
     vendor/samsung/k3gxx/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/k3gxx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
