@@ -160,6 +160,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/k3gxx/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SPEAKER.txt:system/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SPEAKER.txt \
     vendor/samsung/k3gxx/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt:system/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt \
     vendor/samsung/k3gxx/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt:system/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt \
+
     vendor/samsung/k3gxx/proprietary/vendor/firmware/bcm4350_V0375.0766_wisol.hcd:system/vendor/firmware/bcm4350_V0375.0766_wisol.hcd \
     vendor/samsung/k3gxx/proprietary/vendor/firmware/bcm4350_V0375.0768.hcd:system/vendor/firmware/bcm4350_V0375.0768.hcd \
     vendor/samsung/k3gxx/proprietary/vendor/firmware/companion_2p2_master_setfile.bin:system/vendor/firmware/companion_2p2_master_setfile.bin \
