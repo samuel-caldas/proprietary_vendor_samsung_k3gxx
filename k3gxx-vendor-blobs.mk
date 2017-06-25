@@ -147,6 +147,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/k3gxx/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
   vendor/samsung/k3gxx/proprietary/bin/sensorservice:system/bin/sensorservice \
   vendor/samsung/k3gxx/proprietary/bin/vcsFPService:system/bin/vcsFPService \
+  vendor/samsung/k3gxx/proprietary/bin/cbd:system/bin/cbd \
   vendor/samsung/k3gxx/proprietary/bin/gpsd:system/bin/gpsd \
   vendor/samsung/k3gxx/proprietary/bin/gps.cer:system/bin/gps.cer \
   vendor/samsung/k3gxx/proprietary/lib/hw/gps.universal5422.so:system/lib/hw/gps.universal5422.so \
