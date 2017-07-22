@@ -50,7 +50,6 @@ vendor/samsung/k3gxx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnat
 vendor/samsung/k3gxx/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
 vendor/samsung/k3gxx/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
 vendor/samsung/k3gxx/proprietary/lib/lib_SoundAlive_play_ver125e.so:system/lib/lib_SoundAlive_play_ver125e.so \
-vendor/samsung/k3gxx/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
 vendor/samsung/k3gxx/proprietary/lib/libvdis.so:system/lib/libvdis.so \
 vendor/samsung/k3gxx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
 vendor/samsung/k3gxx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
