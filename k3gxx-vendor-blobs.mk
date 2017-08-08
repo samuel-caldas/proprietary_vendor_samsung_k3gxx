@@ -48,7 +48,14 @@ vendor/samsung/k3gxx/proprietary/etc/wifi/nvram_net.txt_wisol:system/etc/wifi/nv
 
 # OMX
 PRODUCT_COPY_FILES += \
-vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so
+vendor/samsung/k3gxx/proprietary/lib/libExynosOMX_Core.so:system/lib/libExynosOMX_Core.so \
+vendor/samsung/k3gxx/proprietary/lib/libExynosOMX_Resourcemanager.so:system/lib/libExynosOMX_Resourcemanager.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.AVC.Decoder.so:system/lib/omx/libOMX.Exynos.AVC.Decoder.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.MPEG4.Decoder.so:system/lib/omx/libOMX.Exynos.MPEG4.Decoder.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.MPEG4.Encoder.so:system/lib/omx/libOMX.Exynos.MPEG4.Encoder.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.VP8.Decoder.so:system/lib/omx/libOMX.Exynos.VP8.Decoder.so \
+vendor/samsung/k3gxx/proprietary/lib/omx/libOMX.Exynos.VP8.Encoder.so:system/lib/omx/libOMX.Exynos.VP8.Encoder.so
 
 #Camera
 PRODUCT_COPY_FILES += \
