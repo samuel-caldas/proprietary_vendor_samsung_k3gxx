@@ -32,6 +32,27 @@ vendor/samsung/k3gxx/proprietary/vendor/firmware/setfile_2p2.bin:system/vendor/f
 vendor/samsung/k3gxx/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
 vendor/samsung/k3gxx/proprietary/vendor/firmware/setfile_8b1.bin:system/vendor/firmware/setfile_8b1.bin
 
+# Florida audio firmwares
+PRODUCT_COPY_FILES += \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp1-edac.bin:system/etc/firmware/florida-dsp1-edac.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp1-edac.wmfw:system/etc/firmware/florida-dsp1-edac.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp2-tx-nb.wmfw:system/etc/firmware/florida-dsp2-tx-nb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp2-tx-swb.wmfw:system/etc/firmware/florida-dsp2-tx-swb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp2-tx-wb.wmfw:system/etc/firmware/florida-dsp2-tx-wb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-ez2-control.wmfw:system/etc/firmware/florida-dsp3-ez2-control.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-lpsd-control.bin:system/etc/firmware/florida-dsp3-lpsd-control.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-nb.bin:system/etc/firmware/florida-dsp3-tx-nb.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-nb.wmfw:system/etc/firmware/florida-dsp3-tx-nb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-swb.wmfw:system/etc/firmware/florida-dsp3-tx-swb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-swb-conversation.bin:system/etc/firmware/florida-dsp3-tx-swb-conversation.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-swb-interview.bin:system/etc/firmware/florida-dsp3-tx-swb-interview.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-wb.bin:system/etc/firmware/florida-dsp3-tx-wb.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp3-tx-wb.wmfw:system/etc/firmware/florida-dsp3-tx-wb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp4-rx-anc-nb.bin:system/etc/firmware/florida-dsp4-rx-anc-nb.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp4-rx-anc-nb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-nb.wmfw \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.bin:system/etc/firmware/florida-dsp4-rx-anc-wb.bin \
+vendor/samsung/k3gxx/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-wb.wmfw
+
 # Wifi
 PRODUCT_COPY_FILES += \
 vendor/samsung/k3gxx/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
