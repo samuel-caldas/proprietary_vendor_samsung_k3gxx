@@ -83,7 +83,8 @@ PRODUCT_COPY_FILES += \
 vendor/samsung/k3gxx/proprietary/lib/hw/camera.universal5422.so:system/lib/hw/camera.universal5422.so \
 vendor/samsung/k3gxx/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
 vendor/samsung/k3gxx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-vendor/samsung/k3gxx/proprietary/lib/libvdis.so:system/lib/libvdis.so
+vendor/samsung/k3gxx/proprietary/lib/libvdis.so:system/lib/libvdis.so \
+vendor/samsung/k3gxx/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so
 
 # Sensors
 PRODUCT_COPY_FILES += \
