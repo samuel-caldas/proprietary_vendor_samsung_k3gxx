@@ -165,5 +165,4 @@ vendor/samsung/k3gxx/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon
 
 # Others
 PRODUCT_COPY_FILES += \
-vendor/samsung/k3gxx/proprietary/bin/scranton_RD:system/bin/scranton_RD \
 vendor/samsung/k3gxx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin
