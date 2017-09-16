@@ -77,7 +77,6 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/k3gxx/proprietary/lib/hw/sensorhubs.universal5422.so:system/lib/hw/sensorhubs.universal5422.so \
   vendor/samsung/k3gxx/proprietary/lib/hw/sensors.universal5422.so:system/lib/hw/sensors.universal5422.so \
   vendor/samsung/k3gxx/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
-  vendor/samsung/k3gxx/proprietary/bin/sensorservice:system/bin/sensorservice \
   vendor/samsung/k3gxx/proprietary/lib/hw/gps.universal5422.so:system/lib/hw/gps.universal5422.so \
   vendor/samsung/k3gxx/proprietary/bin/gpsd:system/bin/gpsd \
   vendor/samsung/k3gxx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
